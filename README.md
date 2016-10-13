@@ -1,0 +1,2 @@
+# RadarGUI
+VC6.0;OPENGL;MFC
